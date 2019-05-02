@@ -6,6 +6,18 @@
  
 # Hardware
 
+ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD 
+:-: | :-: | :-: | :-: | :-:
+<a href=""><img src="img/Mq-135-800x800.jpg" width="200px"></a>  | <a href=""><img src="img/item_XL_6186780_3246529.jpg" width="200px"></a> | <a href=""><img src="img/BB400.png" width="200px"></a> | <a href=""><img src="img/4.jpg" width="200px"></a> | <a href=""><img src="img/sku166911-1.jpg" width="200px"></a>
+
+l298n motor driver module | โครงรถหุ่นยนต์ smart car 2wd robot car | nodemcu esp8266 | ลําโพงอิเล็กทรอนิกส์สัญญาณเตือนภัยออดไฟฟ้า dc 3-24v
+:-: | :-: | :-: | :-:
+<a href=""><img src="img/F93HPKMID2XEAO7.LARGE.jpg" width="200px"></a>  | <a href=""><img src="img/kb.jpg" width="200px"></a> | <a href=""><img src="img/NodeMCU_ESP8266_development_board_1024x1024.jpg" width="200px"></a> | <a href=""><img src="img/ea.jpg" width="200px"></a> 
+
+Breadboard | power bank | ที่ใส่ถ่าน | ถ่านลิเทียม18650 3 ก้อน | สายไฟจัมเปอร์
+:-: | :-: | :-: | :-: | :-:
+<a href=""><img src="img/64-02.jpg" width="200px"></a>  | <a href=""><img src="img/7.jpg" width="200px"></a> | <a href=""><img src="img/c3.jpg" width="200px"></a> | <a href=""><img src="img/2.jpg" width="200px"></a> | <a href=""><img src="img/1.jpg" width="200px"></a>
+
 # Connection
 
 <p align="center">
@@ -33,8 +45,8 @@
 # 👥Team Member
 |<img src="img/pong.jpg" width="190px" height="190px">|<img src="img/mild.jpg" width="190px" height="190px">|<img src="img/nam.jpg" width="190px" height="190px">|<img src="https://avatars0.githubusercontent.com/u/41178248?s=400&u=afc69eb8e89db6013815d8d6ccb8cacdbd972261&v=4" width="190px" height="190px">|
 |:---:|:---:|:---:|:---:|
-|[ChanyaPong](https://github.com/ChanyaPong)|[ChanyaPong](https://github.com/ChanyaPong)|[th4it4y](https://github.com/th4it4y)|[pawanrat11](https://github.com/pawanrat11)|
-|<p>Chanya Chansri</p>:wolf:|<p>Tha</p>:rabbit:|<p>fds </p>:koala:|<p>Pawanrat Mongkolkittham</p>:bear: |
+|[ChanyaPong](https://github.com/ChanyaPong)|[Thanaporn80](https://github.com/Thanaporn80)|[NETCHANOK61](https://github.com/NETCHANOK61)|[pawanrat11](https://github.com/pawanrat11)|
+|<p>Chanya Chansri</p>:wolf:|<p>Thanaporn Panngam</p>:rabbit:|<p>Netchanok Petchurai</p>:koala:|<p>Pawanrat Mongkolkittham</p>:bear: |
  |      61070038      |      61070080      |      61070106      |      61070119      |
 
 
