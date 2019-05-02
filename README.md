@@ -34,14 +34,16 @@ ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD
 
 # :pager: Interface
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ในส่วนของการใช้งาน จะแสดงผลค่าของอุณหภูมิ ความชื้น และค่าของฝุ่นผ่านทาง LCD และจะทำการ Notify ผ่าน LINE
-## ตัวอย่าง การแสดงผลผ่าน LCD
+ ### ตัวอย่าง การแสดงผลผ่าน LCD
 <p align="center">
     <img src="img/inter2.png" />
 </p>
-## ตัวอย่าง การแสดงผลผ่านแอพลิเคชั่น LINE
+
+ ### ตัวอย่าง การแสดงผลผ่านแอพลิเคชั่น LINE
 <p align="center">
     <img src="img/inter1.png" />
 </p>
+
 # :computer: Video
 
 :arrow_forward: [BetterWeather-BetterHealth]() :arrow_backward:
