@@ -14,6 +14,10 @@ ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD
 :-: | :-: | :-: | :-:
 <a href=""><img src="img/hw6.jpg" width="200px"></a>  | <a href=""><img src="img/hw7.png" width="200px"></a> | <a href=""><img src="img/hw8.jpg" width="200px"></a> | <a href=""><img src="img/hw9.jpg" width="200px"></a> 
 
+ Power Bank | ถ่าน 9V 
+:-: | :-: | :-: | :-:
+<a href=""><img src="img/hw10.jpg" width="200px"></a>  | <a href=""><img src="img/hw11.png" width="200px"></a>
+
 # Connection
 
 <p align="center">
