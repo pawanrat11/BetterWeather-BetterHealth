@@ -26,7 +26,7 @@ ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD
 # :electric_plug: Connection
 
 <p align="center">
-    <img src="img/arduino.jpg" />
+    <img src="img/connect.png" />
 </p>
 
 
@@ -76,8 +76,9 @@ ___
 - [Serial Communication](https://mybtechprojects.tech/serial-communication-between-nodemcu-and-arduino/)
 - [Notify-BOT](https://www.ioxhop.com/article/47/esp8266-esp8285-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2-line)
 
-<p align="center">
 <img scr="img/it.jpg">
+<p align="center">
+    
 รายงานนี้เป็นส่วนหนึ่งของวิชา Computer Programming (06016315)
 
 คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
