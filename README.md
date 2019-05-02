@@ -28,9 +28,9 @@ ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD
 
 
 # :file_folder: Software
- <img src="img/a.png" width="100px" height="80px"> <img src="img/f.png" width="90px" height="100px">
-
-
+| Arduino | Fritzing |
+|:---:|:---:|
+|<img src="img/a.png" width="100px" height="80px">|<img src="img/f.png" width="90px" height="100px">|
 
 # :pager: Interface
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ในส่วนของการใช้งาน จะแสดงผลค่าของอุณหภูมิ ความชื้น และค่าของฝุ่นผ่านทาง LCD และจะทำการ Notify ผ่าน LINE
