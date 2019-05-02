@@ -8,15 +8,11 @@
 
 ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD 
 :-: | :-: | :-: | :-: | :-:
-<a href=""><img src="img/hw1.jpg" width="200px"></a>  | <a href=""><img src="img/hw2.png" width="200px"></a> | <a href=""><img src="img/hw3.jpg" width="200px"></a> | <a href=""><img src="img/hw4.jpg" width="200px"></a> | <a href=""><img src="img/hw5.jpg" width="200px"></a>
+<a href=""><img src="img/hw1.jpeg" width="200px"></a>  | <a href=""><img src="img/hw2.png" width="200px"></a> | <a href=""><img src="img/hw3.jpg" width="200px"></a> | <a href=""><img src="img/hw4.jpg" width="200px"></a> | <a href=""><img src="img/hw5.jpg" width="200px"></a>
 
-l298n motor driver module | โครงรถหุ่นยนต์ smart car 2wd robot car | nodemcu esp8266 | ลําโพงอิเล็กทรอนิกส์สัญญาณเตือนภัยออดไฟฟ้า dc 3-24v
+ GP2Y1014AU0F Dust Sensor | รางถ่าน 9V | Breadboard | สายไฟจัมเปอร์
 :-: | :-: | :-: | :-:
-<a href=""><img src="img/F93HPKMID2XEAO7.LARGE.jpg" width="200px"></a>  | <a href=""><img src="img/kb.jpg" width="200px"></a> | <a href=""><img src="img/NodeMCU_ESP8266_development_board_1024x1024.jpg" width="200px"></a> | <a href=""><img src="img/ea.jpg" width="200px"></a> 
-
-Breadboard | power bank | ที่ใส่ถ่าน | ถ่านลิเทียม18650 3 ก้อน | สายไฟจัมเปอร์
-:-: | :-: | :-: | :-: | :-:
-<a href=""><img src="img/64-02.jpg" width="200px"></a>  | <a href=""><img src="img/7.jpg" width="200px"></a> | <a href=""><img src="img/c3.jpg" width="200px"></a> | <a href=""><img src="img/2.jpg" width="200px"></a> | <a href=""><img src="img/1.jpg" width="200px"></a>
+<a href=""><img src="img/hw6.jpg" width="200px"></a>  | <a href=""><img src="img/hw7.png" width="200px"></a> | <a href=""><img src="img/hw8.jpg" width="200px"></a> | <a href=""><img src="img/hw9.jpg" width="200px"></a> 
 
 # Connection
 
