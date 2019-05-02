@@ -25,7 +25,7 @@
 </p>
 
 # 👥Team Member
-|<img src="" width="190px" height="190px">|<img src="" width="190px" height="190px">|<img src="" width="190px" height="190px">|<img src="" width="190px" height="190px">|
+|<img src="img/pong.jpg" width="190px" height="190px">|<img src="img/mild.jpg" width="190px" height="190px">|<img src="img/nam.jpg" width="190px" height="190px">|<img src="https://avatars0.githubusercontent.com/u/41178248?s=400&u=afc69eb8e89db6013815d8d6ccb8cacdbd972261&v=4" width="190px" height="190px">|
 |:---:|:---:|:---:|:---:|
 |[ChanyaPong](https://github.com/ChanyaPong)|[ChanyaPong](https://github.com/ChanyaPong)|[th4it4y](https://github.com/th4it4y)|[pawanrat11](https://github.com/pawanrat11)|
 |<p>Chanya Chansri</p>:wolf:|<p>Tha</p>:rabbit:|<p>fds </p>:koala:|<p>Pawanrat Mongkolkittham</p>:bear: |
@@ -34,7 +34,7 @@
 
 # Instructor
 
-|<a href=""><img src="img/" width="100px"></a>  |<a href=""><img src="img/" width="100px"></a>  |
+|<a href=""><img src="img/aj_1.jpg" width="100px"></a>  |<a href=""><img src="img/aj_2.jpg" width="100px"></a>  |
 | :-: | :-: |
 |ผศ. ดร. กิติ์สุชาต พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
 
@@ -47,7 +47,7 @@ ___
 
 
 <p align="center">
-<img src="img/" width="200">
+<img src="img/it.jpg" width="100">
 
 รายงานนี้เป็นส่วนหนึ่งของวิชา Computer Programming (รหัส )
 
