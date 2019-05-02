@@ -30,7 +30,7 @@ ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD
 # :file_folder: Software
 | Arduino | Fritzing |
 |:---:|:---:|
-|<img src="img/a.png" width="100px" height="80px">|<img src="img/f.png" width="90px" height="100px">|
+|<img src="img/a.png" width="200px" height="120px">|<img src="img/f.png" width="110px" height="120px">|
 
 # :pager: Interface
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ในส่วนของการใช้งาน จะแสดงผลค่าของอุณหภูมิ ความชื้น และค่าของฝุ่นผ่านทาง LCD และจะทำการ Notify ผ่าน LINE
@@ -67,7 +67,10 @@ ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD
 
 # 🔗 Reference
 ___
-
+- [gp2y1010au](https://www.sparkfun.com/datasheets/Sensors/gp2y1010au_e.pdf)
+- [Air Quality](http://www.howmuchsnow.com/arduino/airquality/)
+- [Serial Communication](https://mybtechprojects.tech/serial-communication-between-nodemcu-and-arduino/)
+- [Notify-BOT](https://www.ioxhop.com/article/47/esp8266-esp8285-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2-line)
 
 <p align="center">
 <img scr="img/it.jpg">
