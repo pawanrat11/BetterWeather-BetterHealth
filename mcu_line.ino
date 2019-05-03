@@ -1,6 +1,6 @@
 //BetterWeather-BetterHealth Project 
 //Computer Programing 2018,IT KMITL
-/*JSON library*/
+/*Json to communicate with node mcu*/
 #include <SoftwareSerial.h>
 SoftwareSerial s(D2, D3); //RX, TX
 #include <ArduinoJson.h>
@@ -18,6 +18,9 @@ void Line_Notify(String message) ;
 // Line config
 #define LINE_TOKEN "UVkU4cUHXPOvSpYF7y13GbEfd3d1mk6RQEqIt0Ledju" 
 
+// time
+int notiTime;
+
 void setup() {
   // Initialize Serial port
   Serial.begin(9600);
@@ -26,10 +29,13 @@ void setup() {
 }
 
 void loop() {
-  delay(5000);
-  StaticJsonBuffer<256> jsonBuffer;
+  /*get values from uno*/
+  StaticJsonBuffer<400> jsonBuffer;
   JsonObject& root = jsonBuffer.parseObject(s);
-
+  if (root == JsonObject::invalid())
+  {
+    return;
+  }
   //Print the data in the serial monitor
   Serial.println("JSON received and parsed");
   Serial.println("");
@@ -48,8 +54,11 @@ void loop() {
   Serial.println("---------------------xxxxx--------------------");
 
   /*send*/
+  if (data1 != 0){
   Line_Notify("Temp = " + String(data1) + "C\n" + "Humi = " + String(data2) + " percent" + "\n" + "Dust = " + String(data3) + "[ug/m3]\n" + "Quaility = " + String(data4));
+  }
 }
+
 
 void Line_Notify(String message) {
   axTLS::WiFiClientSecure client; // กรณีขึ้น Error ให้ลบ axTLS:: ข้างหน้าทิ้ง

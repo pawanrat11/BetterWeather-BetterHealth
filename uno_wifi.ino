@@ -1,9 +1,10 @@
 //BetterWeather-BetterHealth Project 
 //Computer Programing 2018,IT KMITL
-/*Json*/
+/*Json to communicate with node mcu*/
 #include <SoftwareSerial.h>
 #include <ArduinoJson.h>
 SoftwareSerial s(3, 2); //RX, TX
+
 /*include LCD 20x4 libary*/
 #include <Wire.h>
 #include <LiquidCrystal_PCF8574.h>
@@ -18,13 +19,15 @@ dht DHT; // Creats a DHT object
 
 /*Dust sensor*/
 int measurePin = A0; // Analog Pin sensor is connected to
-int ledPower = 6; // Digital Pin sensor is connected to
+int ledPower = 4; // Digital Pin sensor is connected to
 
 float rawSignal = 0;
 float voltage = 0;
 float dustDensity = 0;
 
-String quality;
+String quality; // Air quality (0.5micron+)
+
+int count;
 
 void setup() {
   // put your setup code here, to run once:
@@ -37,11 +40,11 @@ void setup() {
   lcd.begin(20, 4);
   lcd.setCursor(0, 1);
   lcd.print("++ Weather & Dust ++");
-  delay(1000);
+  delay(1000); 
 
 }
 
-StaticJsonBuffer<256> jsonBuffer;
+StaticJsonBuffer<400> jsonBuffer;
 JsonObject& root = jsonBuffer.createObject();
 void loop() {
   // put your main code here, to run repeatedly:
@@ -141,11 +144,12 @@ void loop() {
   root["dust"] = dustDensity;
   root["qua"] = quality;
 
-  if (show == 1) {
-    root.printTo(s);
+  if(s.available()>0 && (count % 30) == 0){
+    root.printTo(s); // send to nodemcu
   }
 
   show = (show + 1) % 2; // to select case to show on lcd
-  delay(5000);
+  count += 1;
+  delay(2000);
 
 }
