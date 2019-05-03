@@ -65,7 +65,7 @@ ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD
 
 |<a href=""><img src="img/aj_1.jpg" width="150px"></a>  |<a href=""><img src="img/aj_2.jpg" width="150px"></a>  |
 | :-: | :-: |
-|ผศ. ดร. กิติ์สุชาต พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
+|รศ. ดร. กิติ์สุชาต พสุภา|รศ. ดร. ปานวิทย์ ธุวะนุติ|
 
 
 
