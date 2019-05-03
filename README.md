@@ -50,7 +50,7 @@ ESP8266 (NodeMCU) | Arduino Uno R3 | สาย USB Arduino | DHT11 | 20X4 LCD
 
 # :computer: Video
 
-:arrow_forward: [BetterWeather-BetterHealth]() :arrow_backward:
+:arrow_forward: [BetterWeather-BetterHealth](https://youtu.be/FbBQsLTD08Q) :arrow_backward:
 
 # 👥 Team Member
 |<img src="img/pong.jpg" width="190px" height="190px">|<img src="img/mild.jpg" width="190px" height="190px">|<img src="img/nam.jpg" width="190px" height="190px">|<img src="https://avatars0.githubusercontent.com/u/41178248?s=400&u=afc69eb8e89db6013815d8d6ccb8cacdbd972261&v=4" width="190px" height="190px">|
